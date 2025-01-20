@@ -159,7 +159,7 @@ void loop() {
         }
     }
 
-    // Servo Oscillation Logic (Moves left-right continuously when pump is on)
+    // Servo Oscillation Logic moves left-right continuously when pump is on
     if (pumpOn) {
         static unsigned long lastServoMove = 0;
         static bool servoToggle = false;
