@@ -6,6 +6,7 @@ Agriculture plays a vital role in sustaining life. This project integrates Inter
 
 
 ## Dashboard 
+
 ![Image](https://github.com/user-attachments/assets/b83a13ae-cb44-4d18-9f89-cbee78c84c23)
 
 ![Image](https://github.com/user-attachments/assets/0a35ba12-eadf-439e-9661-9994b528da6e)
